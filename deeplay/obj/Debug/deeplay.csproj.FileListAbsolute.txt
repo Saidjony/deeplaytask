@@ -1,0 +1,11 @@
+D:\deeplay\deeplay\deeplay\bin\Debug\deeplay.exe.config
+D:\deeplay\deeplay\deeplay\bin\Debug\deeplay.exe
+D:\deeplay\deeplay\deeplay\bin\Debug\deeplay.pdb
+D:\deeplay\deeplay\deeplay\obj\Debug\deeplay.csproj.AssemblyReference.cache
+D:\deeplay\deeplay\deeplay\obj\Debug\deeplay.Form1.resources
+D:\deeplay\deeplay\deeplay\obj\Debug\deeplay.Properties.Resources.resources
+D:\deeplay\deeplay\deeplay\obj\Debug\deeplay.csproj.GenerateResource.cache
+D:\deeplay\deeplay\deeplay\obj\Debug\deeplay.csproj.CoreCompileInputs.cache
+D:\deeplay\deeplay\deeplay\obj\Debug\deeplay.exe
+D:\deeplay\deeplay\deeplay\obj\Debug\deeplay.pdb
+D:\deeplay\deeplay\deeplay\bin\Debug\deeplayworker1.mdb
